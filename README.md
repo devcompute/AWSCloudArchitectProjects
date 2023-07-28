@@ -9,6 +9,7 @@ Project Objectives:
 
 🔹 Expand AWS Knowledge: These practice projects serve as a springboard for deepening my understanding of various AWS services, including EC2, S3, Lambda, VPC, IAM, and more. As I architect and implement solutions for diverse use cases, I strive to master the nuances of these services and leverage them effectively in future cloud endeavors.
 
-🔹 Showcase Skills: Beyond honing my technical expertise, this repository also acts as a showcase of my proficiency in cloud architecture. Each project comes with a detailed documentation and clean code implementation, highlighting my commitment to clarity and precision in my work.
+🔹 Showcase Skills: Beyond honing my technical expertise, this repository also acts as a showcase of my proficiency in cloud architecture. Each project comes with detailed documentation and clean code implementation, highlighting my commitment to clarity and precision in my work.
 
 
+At the culmination of these individual projects, they come together to form a robust and comprehensive system; a valuable reference for cloud professionals in their career endeavors.
