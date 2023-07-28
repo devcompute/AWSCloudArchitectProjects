@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://quicksight-demo1235/Amazon-Bestseller-Dataset.csv"
+               "PUTYOURS3BUCKERHERE"
            ]
        }
    ],
