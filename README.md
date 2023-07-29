@@ -1,6 +1,5 @@
-Overview
-
 AWS Cloud Practice Demo Projects
+
 
 Welcome to my AWS Cloud Practice Demo Projects repository! 🌐💼
 
