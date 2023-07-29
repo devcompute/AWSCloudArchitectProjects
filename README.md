@@ -1,4 +1,4 @@
-Welcome to my AWS Cloud Practice Demo Projects repository! 🌐💼
+Welcome to my AWS Cloud Demo Projects repository! 🌐💼
 
 In this collection, you'll find a series of hands-on practice projects that I've meticulously crafted as a starting point to delve into the exciting world of AWS cloud architecture. These projects serve a dual purpose: to enhance my expertise in AWS cloud services and to showcase my skills as an aspiring AWS Cloud Architect.
 
